@@ -3,11 +3,11 @@ BI-focused analysis of 3,900 customer transactions using Python, SQL, and Power 
 
 Data Analytics Project
 
-#Overview
+Overview
 
 This project demonstrates an end-to-end data analytics workflow, covering data extraction, exploration, cleaning, analysis, and visualization. The goal is to derive meaningful business insights from raw data and present them through interactive dashboards and professional reports to support data-driven decision-making.
 
-#Dataset
+Dataset
 
 Loaded and analyzed a structured transactional dataset
 Contains customer demographics, purchase details, and behavioral attributes
